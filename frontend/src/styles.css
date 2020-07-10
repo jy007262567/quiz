@@ -1,0 +1,18 @@
+
+  /* .carousel-item {
+    height: 500px;
+    background-color: #9E9E9E;
+  } */
+  
+  .carousel-item.active {
+    transition: 1s;
+    opacity: 1;
+}
+  .carousel-item {
+
+    height: 500px;
+    background-color: #9E9E9E;
+    display:block;
+    opacity: 0;
+
+}
